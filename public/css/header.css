@@ -24,3 +24,12 @@ header a{
 .header__horizontal--menu ul li{
     display: inline;
 }
+
+/* ESTILOS HEADER MUSIC */
+.music .header__horizontal {
+    background-image: url('/images/emilia-music-top.jpg');
+    background-repeat: no-repeat;
+    background-size: 100%;
+    padding-top: 25px;
+    padding-bottom: 25px;
+}
