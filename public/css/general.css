@@ -18,6 +18,7 @@ body{
 h1{
     font-family: var(--tipografiaTitulos);
     text-transform: uppercase;
+    font-size: 65px;
 }
 
 a {
