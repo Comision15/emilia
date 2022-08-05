@@ -1,0 +1,17 @@
+.contact__main__section--map h2, 
+.contact__main__section--info h2{
+    text-transform: uppercase;
+    font-family: var(--tipografiaTitulos);
+}
+
+.contact__main__section--info article {
+    margin-top: 45px;
+}
+
+.contact__main__section--info article h3{
+    color : #6AAD9D;
+}
+
+.contact__main__section--info article p{
+    line-height: 5px;
+}

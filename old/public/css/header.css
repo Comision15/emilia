@@ -1,0 +1,35 @@
+/* ESTILOS HEADER GENERAL */
+header a{
+    text-transform: uppercase;
+}
+
+/* ESTILOS HEADER VERTICAL */
+.header__vertical {
+    line-height: 30px;
+    font-weight: 200;
+    margin-left: 30px;
+}
+
+/* ESTILOS HEADER HORIZONTAL */
+.header__horizontal {
+    text-align: right;
+}
+
+.header__horizontal--menu {
+    background-color: rgba(255, 255, 255, 0.4);
+    padding-top: 2px;
+    padding-bottom: 2px;
+}
+
+.header__horizontal--menu ul li{
+    display: inline;
+}
+
+/* ESTILOS HEADER MUSIC */
+.music .header__horizontal {
+    background-image: url('/images/emilia-music-top.jpg');
+    background-repeat: no-repeat;
+    background-size: 100%;
+    padding-top: 25px;
+    padding-bottom: 25px;
+}
